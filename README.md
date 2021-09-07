@@ -1,2 +1,2 @@
-# Bài tập #
-## Sử dụng Git ##
+# Bài tập2 #
+## Sử dụng Git2 ##
